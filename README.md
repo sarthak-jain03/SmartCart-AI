@@ -174,14 +174,14 @@ python app.py
 
 ## Future Improvements
 
-* 📈 Demand forecasting using time-series models
-* 🤖 Advanced ML models (XGBoost, LSTM for demand prediction)
-* 📲 Mobile App version
-* 💳 Online Payments Integration
+* Demand forecasting using time-series models
+* Advanced ML models (XGBoost, LSTM for demand prediction)
+* Mobile App version
+* Online Payments Integration
 
 ---
 
-## 👨‍💻 Team
+##  Author
 
 * **Sarthak Jain** – Full Stack + Machine Learning
   
