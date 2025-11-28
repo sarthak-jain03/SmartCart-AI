@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="text-gray-500/80 pt-8 px-6 md:px-16 lg:px-24 xl:px-32">
       <div className="flex flex-wrap justify-between gap-12 md:gap-6">
         <div className="max-w-80">
-          <h1 className="text-3xl font-semibold text-[#212121]">Smart Grocery Store</h1>
+          <h1 className="text-3xl font-semibold text-[#212121]">SmartCart AI</h1>
           <p className="text-sm">
             "Welcome to our smart grocery platform that uses AI to dynamically reduce prices of near-expiry products, helping reduce waste and increase sales. Our system ensures customers get the best value while sellers optimize inventory effortlessly."
           </p>
