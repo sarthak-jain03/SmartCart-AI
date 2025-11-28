@@ -1,10 +1,10 @@
-# Smart Grocery Store – Dynamic Price Prediction
+# SmartCart AI – Dynamic Price Prediction
 
 # Project Link: https://smart-grocery-store.vercel.app/
 
 ##  Overview
 
-Smart Grocery Store is a **full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application** integrated with a **Machine Learning model** to help grocery retailers reduce product wastage and maximize profits.
+SmartCart AI is a **full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application** integrated with a **Machine Learning model** to help grocery retailers reduce product wastage and maximize profits.
 
 The system dynamically adjusts product prices based on factors like **expiry date, demand, stock levels, and base price**, ensuring that perishable items are sold before they expire.
 
@@ -91,7 +91,7 @@ Example Output:
 ## Project Structure
 
 ```
-Smart-Grocery-Store/
+SmartCart-AI/
 │── client/                # React frontend
 │── server/                # Node.js backend
 │   ├── routes/            # API routes
@@ -113,8 +113,8 @@ Smart-Grocery-Store/
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/sarthak-jain03/Smart-Grocery-Store.git
-cd smart-grocery-store
+git clone https://github.com/sarthak-jain03/SmartCart-AI.git
+cd smartcart-ai
 ```
 
 ### 2. Backend Setup (Node.js)
