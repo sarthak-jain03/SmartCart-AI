@@ -1,7 +1,5 @@
 # SmartCart AI – Dynamic Price Prediction
 
-# Project Link: https://smart-grocery-store.vercel.app/
-
 ##  Overview
 
 SmartCart AI is a **full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application** integrated with a **Machine Learning model** to help grocery retailers reduce product wastage and maximize profits.
